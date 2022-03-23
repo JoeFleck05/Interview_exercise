@@ -1,0 +1,5 @@
+current directory: /Users/josephfleck/Documents/workspace/Interview/SDET_Assignment/.bundle/ruby/2.3.0/gems/childprocess-1.0.1/ext
+/Users/josephfleck/.rvm/rubies/ruby-2.3.1/bin/ruby mkrf_conf.rb
+
+current directory: /Users/josephfleck/Documents/workspace/Interview/SDET_Assignment/.bundle/ruby/2.3.0/gems/childprocess-1.0.1/ext
+/Users/josephfleck/.rvm/rubies/ruby-2.3.1/bin/ruby -rubygems /Users/josephfleck/Documents/workspace/Interview/SDET_Assignment/.bundle/ruby/2.3.0/gems/rake-12.3.3/exe/rake RUBYARCHDIR=/Users/josephfleck/Documents/workspace/Interview/SDET_Assignment/.bundle/ruby/2.3.0/extensions/x86_64-darwin-17/2.3.0/childprocess-1.0.1 RUBYLIBDIR=/Users/josephfleck/Documents/workspace/Interview/SDET_Assignment/.bundle/ruby/2.3.0/extensions/x86_64-darwin-17/2.3.0/childprocess-1.0.1
